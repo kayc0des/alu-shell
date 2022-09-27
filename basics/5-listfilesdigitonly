@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -laid)"
+echo "$(ls -lan)"
