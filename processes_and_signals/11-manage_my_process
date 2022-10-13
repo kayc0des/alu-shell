@@ -22,4 +22,4 @@ elif [ "$command" == "restart" ]; then
 	echo "manage_my_process restarted"
 else
 	echo "Usage: manage_my_process {start|stop|restart}"
-f1
+fi
